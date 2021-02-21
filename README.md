@@ -31,4 +31,12 @@
 
 ### Index
 
+- [Lists](src/lists.html)
 - [Headings](src/headings.html)
+- [Paragraphs](src/paragraphs.html)
+- [Inline Paragraph](src/inline-elements.html)
+- [Tables](src/tables.html)
+- [Forms](src/forms.html)
+- [Images](src/images.html)
+- [Quotations](src/quotations.html)
+- [Sections](src/sections.html)
