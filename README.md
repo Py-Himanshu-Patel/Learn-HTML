@@ -1,2 +1,6 @@
-# Learn-HTML
-Fundametals of HTML
+# Fundametals of HTML
+
+## Hyper Text Markup Language
+
+Not a programming language
+
